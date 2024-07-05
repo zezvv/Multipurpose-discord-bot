@@ -1,17 +1,17 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "MTI1ODY0ODc0MjMyNDg2MzAyNw.GQ25Nd.T7gYEi4EoBRUeBx79iYnNc8sinpN1NCxCnysM4",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "1240105261813862450"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
-        "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "text": "Awaiting for your instructions, rervv.",
+        "text2": "rervv 2024",
+        "type": "Awaiting for your instructions, rervv.",
+        "url": "https://discord.gg/uz5FJPe9P4"
     },
     "clientsettings": {
         "nodes": [
